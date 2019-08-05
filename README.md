@@ -1,10 +1,10 @@
 Introduction to Machine Learning
 ================================
 
-This is a repository with studies and implementations followint the Introduction to Machine Learning from YouTube channel [ML4U](https://www.youtube.com/playlist?list=PLKWX1jIoUZaWY_4zxjLXnIMU1Suyaa4VX).
+This is a repository with implementations in Python3, following the Introduction to Machine Learning from YouTube channel [ML4U](https://www.youtube.com/playlist?list=PLKWX1jIoUZaWY_4zxjLXnIMU1Suyaa4VX).
 
 In these classes the following subjects are raised:
-- K-Nearest Neighbors (KNN)
+- [K-Nearest Neighbors (KNN)](./KNN)
 <!-- - K-Means
 - Distance-Weighted Nearest Neighbors
 - Perceptron

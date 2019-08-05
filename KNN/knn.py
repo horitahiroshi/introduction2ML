@@ -18,6 +18,7 @@ dataset_example = np.array([[34, 78, 0],
                             [26, 89, 1],
                             [22, 56, 1]], dtype=float)
 
+# function to calculate euclidean distances between query and all rows from dataset
 def euclidian_distance(example, query):
     difs = example - query
     return np.sqrt(np.sum(np.square(difs),axis=1))

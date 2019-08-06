@@ -1,7 +1,7 @@
 K-Nearest Neighbors
 ===================
 
-[KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) is an algorithm of classification, i.e., it is in the context of supervised machine learning.
+[KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) is an algorithm of classification, i.e., it is in the context of [supervised machine learning](https://en.wikipedia.org/wiki/Supervised_learning).
 
 ## Brief explanation
 

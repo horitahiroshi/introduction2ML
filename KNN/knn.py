@@ -56,6 +56,7 @@ def main():
     if(debug):
         print("classes: ")
         print(U)
+        print("frequency: ")
         print(R)
 
 if __name__ == "__main__":

@@ -8,9 +8,9 @@ In these classes the following subjects are raised:
 Implemented:
 - [K-Nearest Neighbors (KNN)](./KNN)
 - [K-Means](./KMeans)
+- [Distance-Weighted Nearest Neighbors](./DWNN) (DWNN)
 
 To be implemented:
-- [Distance-Weighted Nearest Neighbors](./DWNN) (DWNN)
 - Perceptron
 - Multilayer Perceptron (MLP)
 - K-Fold Cross Validation
